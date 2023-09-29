@@ -17,3 +17,5 @@ Create a Markdown Link:
 
 In your GitHub README or Markdown document, create a clickable link using the Colab link you copied:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ethopic/hhd-ethiopic-I/blob/main/Test__demo_HPopt_Attn_CTC.ipynb)
+
+in case of image, just drage the image from the directory in your local computer and release it on the editor space
